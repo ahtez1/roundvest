@@ -1,0 +1,7 @@
+Django==6.1
+djangorestframework==3.18.0
+djangorestframework_simplejwt==5.5.1
+django-cors-headers==4.9.0
+python-dotenv==1.2.2
+plaid-python==42.0.0
+alpaca-py==0.44.0
